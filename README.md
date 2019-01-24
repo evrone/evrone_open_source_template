@@ -28,4 +28,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-* Thanks for the base structure [PurpleBooth](https://github.com/PurpleBooth) and his [A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* Thanks [PurpleBooth](https://github.com/PurpleBooth) and his gist "[A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)"
