@@ -88,7 +88,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the [MIT License](MIT-LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
