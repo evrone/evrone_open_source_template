@@ -26,7 +26,7 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+### Installation
 
 A step by step series of examples that tell you how to get a development env running
 
@@ -79,6 +79,10 @@ Please read [Code of Conduct](CODE-OF-CONDUCT.md) and [Contributing Guidelines](
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Changelog
+
+The changelog is [here](CHANGELOG.md).
 
 ## Authors
 
