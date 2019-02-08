@@ -1,6 +1,9 @@
 # Project Title
 
-Put your badges here (like [this](https://github.com/varvet/pundit/blob/master/README.md))
+Put your badges here. Like this:
+![travis](https://travis-ci.org/evrone/omniauth-yandex.svg?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/evrone/omniauth-yandex1/maintainability)
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 
 One Paragraph of project description goes here
 
